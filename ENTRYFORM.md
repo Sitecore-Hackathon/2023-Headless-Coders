@@ -9,17 +9,16 @@
 You can find a very good reference to Github flavoured markdown reference in [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you want something a bit more WYSIWYG for editing then could use [StackEdit](https://stackedit.io/app) which provides a more user friendly interface for generating the Markdown code. Those of you who are [VS Code fans](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) can edit/preview directly in that interface too.
 
 ## Team name
-⟹ Write the name of your Hackathon team here
+⟹ Headless Coders
 
 ## Category
-⟹ Write the name of the selected category
+⟹ Best Migration Module to move from XP (traditional) to XC Cloud/Content Hub one/Headless CMS
 
 ## Description
-⟹ Write a clear description of your hackathon entry.  
+⟹ Our idea was to create Sitecore PowerShell scripts to help the migration process to headless. There are a lot of manual processes to be followed to create the JSS sites(Sitecore site and the client side application) and after you create the sites, you will again have to move/create the renderings and make changes to them. Our idea is to automate this process as much as possible. We tried to break down this whole process in few steps.  
 
   - Module Purpose
-  - What problem was solved (if any)
-    - How does this module solve it
+  In our experience when we migrate our projects to Headless, during the initial phase we have to do a lot of manual work to create the client apps and in many cases the effort gets multiplied by the number of developers in the team. Even after creating the app we still have to migrate the renderings. We tried to automate the process in a step-by-step process. We could not implement all the features we wanted to but we think this could be really helpful for the community. 
 
 _You can alternately paste a [link here](#docs) to a document within this repo containing the description._
 
