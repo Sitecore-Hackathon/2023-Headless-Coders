@@ -20,7 +20,7 @@ You can find a very good reference to Github flavoured markdown reference in [th
   - Module Purpose
   In our experience when we migrate our projects to Headless, during the initial phase we have to do a lot of manual work to create the client apps and in many cases the effort gets multiplied by the number of developers in the team. Even after creating the app we still have to migrate the renderings. We tried to automate the process in a step-by-step process. We could not implement all the features we wanted to but we think this could be really helpful for the community. 
 
-_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
+[_You can alternately paste a [link here](#docs) to a document within this repo containing the description._](https://github.com/Sitecore-Hackathon/2023-Headless-Coders/blob/main/docs/Headless%20Migration%20Helper.docx)
 
 ## Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
